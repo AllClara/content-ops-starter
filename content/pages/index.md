@@ -71,7 +71,7 @@ sections:
       - url: /images/istockphoto-885533952-1024x1024.jpg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/istockphoto-1219545187-1024x1024.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/istockphoto-1271425361-1024x1024.jpg
