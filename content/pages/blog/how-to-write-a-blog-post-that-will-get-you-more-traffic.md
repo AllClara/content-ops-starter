@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: GALER
+title: GALERIA
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
