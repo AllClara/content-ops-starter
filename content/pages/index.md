@@ -192,7 +192,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: JUEGO
             altText: ''
             url: >-
               /https://view.genially.com/67bcfd96b54a23ecb6c88dc7/interactive-content-trivia-nicaragua
