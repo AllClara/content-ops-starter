@@ -225,7 +225,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: JUEGO
             altText: ''
             url: >-
               /https://view.genially.com/67bde33691b931b8f8a2a0c6/interactive-content-escape-room-nicaragua
