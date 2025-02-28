@@ -201,7 +201,7 @@ sections:
             iconPosition: right
             style: primary
             elementId: ''
-      - title: Feature Item Three
+      - title: ''
         tagline: ESCAPE ROOM
         subtitle: This is the item subtitle
         text: >
