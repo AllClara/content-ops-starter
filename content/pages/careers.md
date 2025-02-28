@@ -23,7 +23,7 @@ sections:
       unieron para celebrar la riqueza cultural y natural de Nicaragua. ¡Juntos,
       logramos algo que nos llena de orgullo! 
     actions:
-      - label: See open positions
+      - label: ''
         url: /
         icon: arrowRight
         iconPosition: right
