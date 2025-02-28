@@ -169,7 +169,7 @@ sections:
             style: primary
             elementId: ''
       - title: ''
-        tagline: This is the tagline
+        tagline: TR
         subtitle: ''
         text: ''
         image:
