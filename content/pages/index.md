@@ -135,7 +135,7 @@ sections:
       "Nicaragua, tierra de lagos y volcanes, donde la cultura late al ritmo de
       la marimba y los sabores ancestrales conquistan paladares."
     items:
-      - title: TRIVIA
+      - title: ''
         tagline: TRIVIA
         subtitle: ''
         text: >
