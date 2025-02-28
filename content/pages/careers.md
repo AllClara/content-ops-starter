@@ -4,7 +4,7 @@ slug: careers
 sections:
   - title:
       text: Un equipo que trabaja en estrecha colaboración
-      color: text-neutral
+      color: text-primary
       styles:
         self:
           textAlign: center
