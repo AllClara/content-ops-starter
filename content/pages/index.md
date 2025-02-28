@@ -35,7 +35,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/hero.svg
+      url: /images/map-nicaragua.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
