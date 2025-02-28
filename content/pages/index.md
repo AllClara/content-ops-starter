@@ -161,8 +161,7 @@ sections:
           - type: Button
             label: JUEGO
             altText: ''
-            url: >-
-              https://view.genially.com/67bde33691b931b8f8a2a0c6/interactive-content-escape-room-nicaragua
+            url: ''
             showIcon: false
             icon: arrowRight
             iconPosition: right
