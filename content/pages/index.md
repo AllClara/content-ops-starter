@@ -160,8 +160,7 @@ sections:
         actions:
           - type: Button
             label: JUEGO
-            altText: >-
-              /https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses
+            altText: ''
             url: >-
               /https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses
             showIcon: false
