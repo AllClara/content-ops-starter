@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: El corazón de Centroamérica
     text: >+
       Nicaragua, conocida como la "Tierra de Lagos y Volcanes", es un país lleno
       de contrastes y belleza natural. Ubicado en el istmo centroamericano,
