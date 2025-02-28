@@ -138,8 +138,8 @@ sections:
       - title: ''
         tagline: TRIVIA
         subtitle: ''
-        text: >
-          <https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses>
+        text: |
+          ![](/images/icon1.svg)
         image:
           url: /images/hero2.svg
           altText: Placeholder Image
