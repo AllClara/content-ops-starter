@@ -1,5 +1,5 @@
 ---
-title: ACTIVIDADES
+title: POST RECIENTES
 slug: pricing
 sections:
   - type: RecentPostsSection
