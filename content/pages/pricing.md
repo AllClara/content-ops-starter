@@ -26,7 +26,7 @@ sections:
 seo:
   metaTitle: POST
   metaDescription: Actividad reciente
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/icon1.svg
   type: Seo
   addTitleSuffix: true
 type: PageLayout
