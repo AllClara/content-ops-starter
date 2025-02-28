@@ -138,8 +138,7 @@ sections:
       - title: ''
         tagline: TRIVIA
         subtitle: ''
-        text: |
-          ![](/images/icon1.svg)
+        text: ''
         image:
           url: /images/hero2.svg
           altText: Placeholder Image
