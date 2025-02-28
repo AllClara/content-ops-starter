@@ -137,7 +137,7 @@ sections:
     items:
       - title: TRIVIA
         tagline: TRIVIA
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           <https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses>
         image:
