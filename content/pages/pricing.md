@@ -25,7 +25,7 @@ sections:
         justifyContent: center
 seo:
   metaTitle: POST
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Actividad recente
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
