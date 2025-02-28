@@ -131,7 +131,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: ''
+    subtitle: >-
+      "Nicaragua, tierra de lagos y volcanes, donde la cultura late al ritmo de
+      la marimba y los sabores ancestrales conquistan paladares."
     items:
       - title: Feature Item One
         tagline: This is the tagline
