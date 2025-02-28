@@ -11,11 +11,17 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      La creación de esta página fue un esfuerzo conjunto donde cada miembro del
+      equipo aportó su talento y dedicación. Desde los investigadores que
+      recopilaron datos precisos y fascinantes sobre Nicaragua, hasta los
+      redactores que dieron vida a las palabras con un estilo atractivo y
+      emotivo. Los diseñadores se encargaron de que la página fuera visualmente
+      impactante, seleccionando imágenes y colores que reflejan la esencia del
+      país. Además, los editores aseguraron que cada detalle estuviera
+      perfectamente alineado con el mensaje que queríamos transmitir. Fue un
+      trabajo en equipo donde la comunicación, la creatividad y el compromiso se
+      unieron para celebrar la riqueza cultural y natural de Nicaragua. ¡Juntos,
+      logramos algo que nos llena de orgullo! 
     actions:
       - label: See open positions
         url: /
