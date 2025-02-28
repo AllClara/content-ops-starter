@@ -203,7 +203,7 @@ sections:
             elementId: ''
       - title: ''
         tagline: ESCAPE ROOM
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
