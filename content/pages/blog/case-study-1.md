@@ -4,7 +4,7 @@ slug: case-study-1
 date: '2022-01-05'
 excerpt: ''
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/avatar3.svg
   altText: Case study 1
   styles:
     self:
