@@ -1,5 +1,7 @@
 ---
-title: A Day in the Life of Our Development Team
+title: >-
+  La Gastronomía Nicaragüense: Un Mosaico de Sabores y TradicionesPor [Tu
+  Nombre]
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
