@@ -12,7 +12,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/hero.svg"
     },
     "colors": "bg-light-fg-dark",
     "elementId": null,
