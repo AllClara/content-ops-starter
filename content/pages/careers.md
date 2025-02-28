@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: CONOCENOS
     text: >
       La creación de esta página fue un esfuerzo conjunto donde cada miembro del
       equipo aportó su talento y dedicación. Desde los investigadores que
