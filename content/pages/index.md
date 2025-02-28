@@ -158,6 +158,17 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Two
         tagline: This is the tagline
         subtitle: This is the item subtitle
