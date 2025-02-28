@@ -1,7 +1,7 @@
 ---
 title: 'IMPORTANCIA DE LA PRESERVACIÓN DE LA CULTURA '
 slug: five-tips-for-starting-a-startup
-date: '2023-03-18'
+date: '2025-02-27'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
