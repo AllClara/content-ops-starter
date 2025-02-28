@@ -1,20 +1,7 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
-    "image": {
-        "url": "/images/avatar2.svg",
-        "altText": "Faizah Chan",
-        "styles": {
-            "self": {
-                "borderRadius": "medium",
-                "margin": [
-                    "mb-8"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
+    "name": "Cultura Gastronómica ",
+    "role": "Estudiante",
     "colors": "bg-light-fg-dark",
     "elementId": null,
     "styles": {
@@ -33,5 +20,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Nicaragua, tierra de lagos, volcanes y selvas, es también un paraíso culinario donde se mezclan raíces indígenas, herencia española y toques afrocaribeños. Su cocina, humilde pero llena de identidad, refleja la riqueza de sus recursos naturales y la creatividad de su gente. Desde el maíz sagrado hasta el coco caribeño, cada plato cuenta una historia.\n\n\n\n#### **Los Pilares de la Cocina Nicaragaragüense**\n\nEl **maíz**, heredado de las culturas precolombinas, es la base de la alimentación. Con él se elaboran tortillas, tamales, bebidas y hasta postres. Otros ingredientes clave son:\n\n*   **Frijoles rojos**: protagonistas del emblemático *gallo pinto*.\n\n*   **Plátano**: frito, hervido o en tajadas, acompaña casi cualquier comida.\n\n*   **Yuca**: servida frita, en vigorón o como harina para pan.\n\n*   **Coco**: reina en la Costa Caribe, dando un toque dulce y tropical.\n\n\n\n#### **Platos Emblemáticos**\n\n1.  **Gallo Pinto**\n    El desayuno nacional: arroz y frijoles sofritos con cebolla, ajo y chiltoma. Se sirve con huevo frito, queso fresco y plátano maduro. Su nombre viene del moteado que crean los frijoles sobre el arroz.\n\n2.  **Nacatamal**\n    El \"tamal nicaragüense\" por excelencia. Lleva masa de maíz mezclada con carne de cerdo, arroz, papas, aceitunas y pasas, envuelto en hojas de plátano. Tradicional en festividades.\n\n3.  **Indio Viejo**\n    Un guiso ancestral a base de maíz molido, carne desmenuzada (res o pollo), hierbas como la hierbabuena y jugo de naranja agria. Su nombre alude a su textura espesa y oscura.\n\n4.  **Vigorón**\n    Un plato callejero: yuca cocida sobre una hoja de plátano, coronada con chicharrón y ensalada de repollo con tomate. Originario de Granada.\n\n5.  **Rondón**\n    Tesoro de la Costa Caribe: un cocido de mariscos, pescado, leche de coco, yuca, plátano verde y ají picante. Su nombre viene del inglés *\"run down\"* (guiso espeso).\n\n\n\n#### **Bebidas que Refrescan el Alma**\n\n*   **Tiste**: bebida fría de maíz tostado, cacao y especias, servida en jícaras (vasijas naturales).\n\n*   **Chicha de maíz**: fermentada o dulce, hecha con maíz molido y canela.\n\n*   **Cacao**: preparado como bebida caliente con leche y azúcar, heredado de los mayas.\n\n*   **Macuá**: cóctel nacional a base de ron blanco, jugo de guayaba, limón y soda.\n\n\n\n#### **Postres que Endulzan la Vida**\n\n*   **Tres Leches**: bizcocho empapado en leche evaporada, condensada y crema.\n\n*   **Pio Quinto**: pastel de bizcocho borracho en ron, relleno de manjar y cubierto de merengue.\n\n*   **Rosquillas**: anillos de maíz con queso, horneados hasta quedar crujientes.\n\n*   **Leche Burra**: dulce de leche quemada, similar al *dulce de leche*, servido en cucharadas.\n\n\n\n#### **Influencias Regionales**\n\n*   **Pacífico y Centro**: Dominan los platos de maíz, carne de res y quesos frescos. Ejemplo: *sopa de queso* (con queso ahumado) y *sopa de mondongo*.\n\n*   **Costa Caribe**: Fusión de sabores afroindígenas. Destacan el *rondón*, el *pan de coco* y el *wabul* (sopa de banano verde).\n\n*   **Norte Montañoso**: Platos robustos como el *baho* (carne, yuca y plátano cocidos al vapor en hojas) y el *chancho con yuca*.\n\n\n\n#### **Cultura y Rituales en la Mesa**\n\n*   **Festividades**: En las fiestas patronales, no faltan los nacatamales, el *atolillo* (bebida de maíz dulce) y las *empanadas de masa*.\n\n*   **Mercados**: Lugares como el Mercado Oriental de Managua o el Mercado de Masaya son santuarios de olores y sabores, donde se vende desde *güirilas* (tortillas de maíz tierno) hasta *quesillos* (tortillas rellenas de queso y crema).\n\n*   **Ritual del Café**: Nicaragua es productor de café de altura. Degustar un *café de las Segovias* o de *Matagalpa* es un ritual cotidiano.\n\n\n\n#### **Sabores que Cuentan Historias**\n\nLa cocina nicaragüense es un reflejo de resistencia y mestizaje. Platos como el *indio viejo* preservan técnicas prehispánicas, mientras el *gallo pinto* narra la fusión indígena y española. En el Caribe, el rondón habla de la herencia africana y la conexión con el mar.\n\nAunque poco conocida a nivel internacional, esta gastronomía conquista con su sencillez, sazón hogareño y la calidez de un pueblo que convierte cada comida en un acto de comunidad.\n\n\n\n**¿Dónde probarla?**\n\n*   **Fritangas**: Puestos callejeros que ofrecen frituras, tacos y vigorón.\n\n*   **Comedores tradicionales**: Busca lugares que sirvan *comida típica* en ciudades como León, Granada o Bluefields.\n\n*   **Festival Gastronómico de Diriá** (noviembre): Celebra los sabores locales en el departamento de Granada.\n\n\n\n"
 }
