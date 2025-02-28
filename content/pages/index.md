@@ -170,7 +170,7 @@ sections:
             elementId: ''
       - title: ''
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
