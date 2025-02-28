@@ -1,5 +1,5 @@
 ---
-title: ACTVDAADES
+title: ACTIVIDADES
 slug: pricing
 sections:
   - title:
