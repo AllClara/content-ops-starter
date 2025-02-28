@@ -9,11 +9,14 @@ sections:
       type: TitleBlock
     subtitle: El corazón de Centroamérica
     text: >+
-      Nicaragua, conocida como la "Tierra de Lagos y Volcanes", es un país lleno
-      de contrastes y belleza natural. Ubicado en el istmo centroamericano,
-      ofrece una mezcla única de playas vírgenes en el Pacífico y el Caribe,
-      imponentes volcanes, selvas exuberantes y el majestuoso Lago de Nicaragua,
-      el más grande de Centroamérica.
+      ##### Nicaragua, conocida como la "Tierra de Lagos y Volcanes", es un país
+      lleno de contrastes y belleza natural. Ubicado en el istmo
+      centroamericano, ofrece una mezcla única de playas vírgenes en el Pacífico
+      y el Caribe, imponentes volcanes, selvas exuberantes y el majestuoso Lago
+      de Nicaragua, el más grande de Centroamérica.
+
+
+      ######
 
     actions:
       - label: Conoce más
