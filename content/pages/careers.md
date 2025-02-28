@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: ¿QUIÉNES SOMOS?
 slug: careers
 sections:
   - title:
