@@ -57,7 +57,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: ''
     images:
       - url: /images/istockphoto-928438734-1024x1024.jpg
         altText: Empathy logo
