@@ -68,7 +68,7 @@ sections:
       - url: /images/istockphoto-928438734-1024x1024.jpg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/istockphoto-885533952-1024x1024.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
