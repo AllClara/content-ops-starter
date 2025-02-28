@@ -1,76 +1,20 @@
 ---
-title: Case study 3
+title: Rubén Darío
 slug: case-study-3
-date: '2021-11-18'
+date: '2025-02-27'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/img-placeholder.svg
   altText: Case study 3
   styles:
     self:
       borderRadius: x-large
   type: ImageBlock
-bottomSections:
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
+bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
@@ -88,19 +32,16 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
-
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor.
-
-Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum.
-
-> Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+> ### **Rubén Darío**
 >
-> _By Laura Gómez - Product Marketing Manager_
+> **Padre del Modernismo literario en español.**
+>
+> ![](/images/Rub3Fo.webp)
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+**Rubén Darío** (nacido el 18 de enero de 1867 en Metapa, Nicaragua; fallecido el 6 de febrero de 1916 en León) fue un influyente poeta, periodista y diplomático nicaragüense. Como líder del movimiento literario hispanoamericano conocido como **Modernismo**, que floreció a finales del siglo XIX, revitalizó y modernizó la poesía en español en ambos lados del Atlántico mediante sus experimentos con el ritmo, la métrica y la imaginería. Darío desarrolló un estilo poético altamente original que fundó una tradición literaria.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+**Vida y obra**
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+Precoz y prolífico, desde los 14 años firmó sus poemas y relatos de amor, heroísmo y aventura con el nombre de **Rubén Darío**. Aunque formalmente imitativos, estos textos destacaban por una imaginación sorprendentemente vívida. En 1886, abandonó Nicaragua, iniciando los viajes que continuarían durante toda su vida. Se estableció por un tiempo en Chile, donde en 1888 publicó su primera gran obra, *Azul*, un compendio de cuentos, prosas descriptivas y versos. Este libro pronto fue reconocido en Europa y Latinoamérica como el heraldo de una nueva era en la literatura hispanoamericana. Darío acababa de descubrir la poesía parnasiana francesa, y *Azul* representa su intento de aplicar al español los principios de ese movimiento estilístico. En las prosas de *Azul*, abandonó las complejas estructuras gramaticales tradicionales del español, reemplazándolas con un lenguaje sencillo y directo. Tanto la prosa como la poesía en este volumen se centran en descripciones objetivas y temas exóticos, principalmente la mitología clásica, Francia y Asia. En conjunto, el libro refleja su enfoque en **"el arte por el arte"**, mostrando poco interés por la vida cotidiana.
+
+Tras su regreso a Centroamérica en 1889 y dos matrimonios breves (el primero terminado por la muerte de su esposa y el segundo por separación), partió para asumir en 1893 el cargo de cónsul de Colombia en Buenos Aires, donde encontró un ambiente cosmopolita estimulante. Los jóvenes escritores locales lo aclamaron como su líder, y el movimiento modernista se organizó en torno a él. Su siguiente obra destacada, *Prosas profanas y otros poemas* (1896), una colección de versos, continuó las innovaciones estilísticas de *Azul*, pero abordó sus escenas y personajes exóticos de manera más simbólica que objetiva, influenciado por los **poetas simbolistas franceses** de la época.
