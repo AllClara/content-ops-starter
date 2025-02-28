@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: dentdad cultural y Orgullo Patrio Nicaraguai
+      label: 'Nicaragua, un país de colores y sabores'
       color: text-primary
       type: Badge
     elementId: ''
