@@ -169,7 +169,7 @@ sections:
             style: primary
             elementId: ''
       - title: ''
-        tagline: TR
+        tagline: TRIVIA
         subtitle: ''
         text: ''
         image:
