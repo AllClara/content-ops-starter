@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: ACTVDAADES
 slug: pricing
 sections:
   - title:
