@@ -22,13 +22,7 @@ sections:
       trabajo en equipo donde la comunicación, la creatividad y el compromiso se
       unieron para celebrar la riqueza cultural y natural de Nicaragua. ¡Juntos,
       logramos algo que nos llena de orgullo! 
-    actions:
-      - label: ''
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
