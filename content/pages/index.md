@@ -16,7 +16,7 @@ sections:
       el más grande de Centroamérica.
 
     actions:
-      - label: Get started
+      - label: Conoce más
         altText: ''
         url: /
         showIcon: false
