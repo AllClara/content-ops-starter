@@ -136,7 +136,7 @@ sections:
       la marimba y los sabores ancestrales conquistan paladares."
     items:
       - title: TRIVIA
-        tagline: ''
+        tagline: TRIVIA
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
