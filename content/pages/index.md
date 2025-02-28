@@ -136,7 +136,7 @@ sections:
       la marimba y los sabores ancestrales conquistan paladares."
     items:
       - title: ''
-        tagline: AD
+        tagline: ADIVINA
         subtitle: ''
         text: ''
         image:
