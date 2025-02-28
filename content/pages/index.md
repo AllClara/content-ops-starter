@@ -138,8 +138,8 @@ sections:
       - title: TRIVIA
         tagline: TRIVIA
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          <https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses>
         image:
           url: /images/hero2.svg
           altText: Placeholder Image
