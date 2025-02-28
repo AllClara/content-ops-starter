@@ -25,7 +25,7 @@ sections:
         justifyContent: center
 seo:
   metaTitle: POST
-  metaDescription: Actividad recente
+  metaDescription: Actividad reciente
   socialImage: /images/main-hero.jpg
   type: Seo
   addTitleSuffix: true
