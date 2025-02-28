@@ -1,7 +1,7 @@
 ---
-title: Case study 2
+title: General Benjamín Zeledón Rodríguez
 slug: case-study-2
-date: '2022-02-16'
+date: '2025-02-27'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
@@ -14,62 +14,7 @@ featuredImage:
     self:
       borderRadius: x-large
   type: ImageBlock
-bottomSections:
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
-  - items:
-      - title: About Company
-        tagline: This is the tagline
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
-    variant: small-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mb-20
-        padding:
-          - pt-0
-          - pl-0
-          - pb-0
-          - pr-0
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
+bottomSections: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
@@ -88,16 +33,43 @@ styles:
 type: PostLayout
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
 
-![](/images/img-placeholder.svg)
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+![](/images/esem-01-g.jpg)Nació el 4 de Octubre de 1879, en la Concordia, Jinotega, y murió 33 años más tarde, en 1912, en Catarina, Masaya, en la misma fecha de su nacimiento, 4 de Octubre. 
 
-> Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices.
->
-> _By Gordon Red - Director of IT_
+Hijo de Marcelino Zeledón Ugarte y de María Salomé Rodríguez, estudió la primaria  en Escuela del Maestro Inocencio Aráuz.  En 1895, a sus 16 años, lo enviaron a Tegucigalpa, a cursar la secundaria en el Colegio “El Espíritu del Siglo” dirigido por el Dr. y General Rafael Dávila.  En 1899 obtuvo su Bachillerato y ese mismo año inicia su carrera universitaria.  En 1900 retornó a Nicaragua, a seguir sus estudios de leyes. Y tuvo que impartir clases en una escuela pública y a domicilio en Managua.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+El 19 de Mayo de 1903, que estalló en Chontales la revolución conocida como “Revolución del Lago”, encabezada por el Gral. Emiliano Chamorro, Zeledón tuvo que incorporarse a la guerra, al lado del Gral. Fernando María Rivas.  Meses más tarde, el 17 de Septiembre de 1903, el Presidente Zelaya le extiende el título de Doctor en Leyes.
+
+Como profesional  del derecho y funcionario público fue Oficial Mayor de la Corte Suprema de Justicia, Juez de Distrito de lo Civil de Managua, Juez del Distrito de Rivas y de 1909 desempeña el cargo de Juez de Distrito de Minas en la Comarca “El Cabo” en el Departamento de Zelaya.
+
+En 1905 se casó con una Señorita que había sido su alumna en su época de profesor, Ester Ramírez Jerez, con la que procreó 4 hijos.  Benjamín, Marco Aurelio, Victoria y Olga.
+
+En 1907 fue Síndico Municipal de Managua y a su iniciativa, el municipio le rindió un homenaje a Rubén Darío, en ocasión de su visita triunfal a Nicaragua.
+
+Este mismo año Zelaya lo nombró Auditor de Guerra.  Y en la lucha fratricida de El Salvador y Honduras contra Nicaragua, Zeledón peleó en la batalla de Namasigüe. En el propio campo de batalla fue ascendido a Coronel del ejército en atención a su heroísmo y valentía demostrada.
+
+En 1909 cuando estalla en Bluefields la revuelta conservadora, Zeledón, a sus 30 años, desempeñaba el cargo de Ministro Plenipotenciario y Enviado Extraordinario ante el gobierno de Guatemala. 
+
+Derrocado Zelaya, en 1910 llega a la Presidencia de Nicaragua el Doctor José Madriz.
+
+Después de fungir como Ministro de la Guerra, Zeledón sustituyó al Doctor Madriz en la Corte Internacional Centroamericana, con sede en Cartago, Costa Rica.  Cuando el Doctor Madriz deja la Presidencia, Zeledón y toda la intelectualidad liberal parten al exilio, unos a México y otros a Costa Rica.  Consecuencia de la contrarrevolución de 1910, llega a la Presidencia, después de Juan Estrada, Adolfo Díaz, quien nombró a Ministro de la Guerra al General Luis Mena.
+
+Las contradicciones inter-conservadoras y ciudadanas por los Pactos Dawson y Castrillo-Knox y la entrega de la Aduana y el ferrocarril hacen estallar en 1912 el movimiento libero-conservador conocido como “La Guerra de Mena”.
+
+Zeledón que acababa de regresar del exilio, se unió a Mena y comandó las fuerzas en su calidad de General en Jefe, Zeledón atacó y ganó Tipitapa.  Después marchó sobre Managua, pero la llegada de nuevos contingentes para el gobierno de Adolfo Díaz, obligaron a Zeledón a replegarse a Masaya, atrincherándose y presentando resistencia en dicha ciudad desde Agosto hasta Octubre de 1912.
+
+Adolfo Díaz había obtenido la intervención directa de los Estados Unidos de Norteamérica quienes enviaron al Comandante Butler con 412 marinos, 2600 soldados y 125 oficiales, en 8 buques de guerra que desembarcaron en Corinto el 15 de agosto.
+
+El Contralmirante W. H. Souterthand estableció su cuartel en Granada y el Comandante Buttler en Corinto.
+
+Sus altaneras notas dirigidas al General Zeledón, exigiéndole rendición y vía libre para los trenes, constituyeron un tremendo ultraje a la Soberanía y Dignidad Nacional.  Zeledón respondió con letras de dignidad y patriotismo.
+
+El General Luis Mena claudicó en Granada y fue deportado a Panamá.  La resistencia mantuvo al General Zeledón, quien quedó abandonado, sin armas y desinformado.  León y Jinotepe cayeron el 3 de Octubre.  Masaya cedió sitio y al amanecer del 4 se tomaron el Coyotepe.
+
+Varias son las versiones sobre la muerte del joven Doctor y General Zeledón.  Unos dicen que cae acribillado por un caballería enemiga que le exigió rendirse, otros afirman que fue herido, capturado y fusilado poco después como reo de guerra, se cuenta también que su cadáver fue llevado en carreta y fue hasta amarrado a un caballo y exhibido por las calles y caminos entre Catarina y Niquinohomo.
+
+
+
+
