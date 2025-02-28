@@ -3,7 +3,7 @@ title: ¿QUIÉNES SOMOS?
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Un equipo que trabaja en estrecha colaboración
       color: text-dark
       styles:
         self:
