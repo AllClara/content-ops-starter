@@ -7,17 +7,7 @@
     "text": "*Nicaragua: Cultura y Orgullo*\n\n",
     "primaryLinks": {
         "title": "CONOCE MÁS",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
+        "links": [],
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
