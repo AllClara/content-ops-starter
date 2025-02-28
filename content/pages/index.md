@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: dentdad cultural y Orgullo Patrio Nicaragua
+      label: dentdad cultural y Orgullo Patrio Nicaraguai
       color: text-primary
       type: Badge
     elementId: ''
