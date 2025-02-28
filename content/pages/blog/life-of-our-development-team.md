@@ -1,7 +1,5 @@
 ---
-title: >-
-  La Gastronomía Nicaragüense: Un Mosaico de Sabores y TradicionesPor [Tu
-  Nombre]
+title: 'La Gastronomía Nicaragüense: Un Mosaico de Sabores y Tradiciones'
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
