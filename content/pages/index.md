@@ -190,6 +190,17 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: >-
+              /https://view.genially.com/67bcfd96b54a23ecb6c88dc7/interactive-content-trivia-nicaragua
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
