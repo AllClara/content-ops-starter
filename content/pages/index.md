@@ -125,7 +125,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: ACTIVIDADES
       color: text-primary
       styles:
         self:
