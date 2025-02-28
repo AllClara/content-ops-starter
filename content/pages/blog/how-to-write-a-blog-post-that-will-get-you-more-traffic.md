@@ -27,9 +27,5 @@ styles:
   self:
     flexDirection: col
 ---
-> “Si pequeña es la patria, uno grande la sueña”.
-
-
-
-
+> “Si pequeña es la patria, uno grande la sueña”. 
 
