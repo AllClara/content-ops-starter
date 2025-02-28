@@ -137,7 +137,8 @@ sections:
     items:
       - title: ''
         tagline: ADIVINA
-        subtitle: ''
+        subtitle: >-
+          /https://view.genially.com/67bdd90af829f35be0e7ee1a/interactive-content-adivina-los-personajes-nicaraguenses
         text: ''
         image:
           url: /images/hero2.svg
