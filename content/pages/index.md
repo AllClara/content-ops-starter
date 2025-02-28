@@ -171,8 +171,7 @@ sections:
       - title: ''
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/hero2.svg
           altText: Placeholder image
