@@ -56,7 +56,7 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/100_0478.JPG
         altText: Empathy logo
         type: ImageBlock
       - url: /images/istockphoto-155350183-1024x1024.jpg
